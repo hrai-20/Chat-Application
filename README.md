@@ -7,7 +7,7 @@ Web chat application developed with React.js, Node.js, and Socket.IO.
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-git clone https://github.com/GovindPathak20/Realtime-Chat-Application.git
+git clone https://github.com/hrai-20/Realtime-Chat-Application.git
 cd Realtime-Chat-Application
 ```
 
